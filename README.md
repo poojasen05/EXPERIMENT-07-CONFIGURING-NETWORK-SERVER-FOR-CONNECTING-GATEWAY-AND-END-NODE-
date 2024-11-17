@@ -50,8 +50,6 @@ To set APP Key
 ## SERVER PAGE
 ![WhatsApp Image 2024-10-26 at 11 39 16_f26757d9](https://github.com/user-attachments/assets/89806f88-8590-47dd-8110-289a0778473b)
 
-## GATEWAYS
-![Screenshot 2024-10-26 105013](https://github.com/user-attachments/assets/bacbc98f-0b1c-48ce-934c-2b191b6329e9)
 
 ## CHANNELS
 ![Screenshot 2024-10-26 105256](https://github.com/user-attachments/assets/02537c74-4720-4b41-ad28-eeb146d0f1b0)
